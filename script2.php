@@ -1,5 +1,5 @@
 <?
 
-echo"salut pierre";
+echo"salut robert";
 
 ?>
